@@ -1,0 +1,13 @@
+the_D cat_N saw_V the_D bench_N
+the_D cat_N sat_V on_I the_D dog_N
+the_D cat_N saw_V dog_N on_I the_D bench_N
+a_D dog_N went_V to_I the_D store_N
+the_D dog_N went_V to_I the_D cat_N
+the_D cat_N saw_V the_D dog_N
+man_N took_V saw_N
+a_D man_N went_V to_I the_D dog_N and_C cat_N
+a_D dog_N and_C man_N went_V to_I the_D store_N
+man_N store_V saw_N in_I house_N
+a_D dog_N and_C cat_N went_V to_I bench_N
+the_D saw_N is_V old_J
+the_D cat_N is_V good_J
